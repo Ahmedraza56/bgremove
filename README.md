@@ -1,4 +1,5 @@
 ![Alt text](bgremove.png)
+
 The Background Removal Tool is a streamlined web application that allows users to instantly remove backgrounds from their images. Users can upload an image in formats like PNG, JPG, or JPEG. Once uploaded, the image is displayed for preview on the Streamlit-powered interface.
 
 After uploading, with a single click, the tool begins processing the image to remove the background. This operation is performed behind the scenes, utilizing machine learning algorithms to ensure high-quality results. If any issues arise during this process, an error message is displayed to inform the user of the problem encountered.
